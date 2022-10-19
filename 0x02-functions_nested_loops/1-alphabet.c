@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * Description -> function to print abc
- *
- * Return: 0
+ * main - Entry point
+ * 
+ * Description: 'print abc'
+ * 
+ * Return: Always 0 (Success)
  */
 void print_alphabet(void)
 {
